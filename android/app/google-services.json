@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "649294928027",
+    "project_id": "kotha-2c1a9",
+    "storage_bucket": "kotha-2c1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649294928027:android:bbaaad72012c68df77ce3e",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649294928027-mavgsb9t6vv5cailgo1rqpinlug5lhc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqBcZCOOGaFY0BTOkZUP3cvZvZOkI0Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649294928027-mavgsb9t6vv5cailgo1rqpinlug5lhc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
